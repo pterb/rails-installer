@@ -1,0 +1,2 @@
+# rails-installer
+rails template
